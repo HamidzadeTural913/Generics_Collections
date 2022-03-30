@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\bin\Debug\netcoreapp3.1\GenericsCollections.exe
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\bin\Debug\netcoreapp3.1\GenericsCollections.deps.json
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\bin\Debug\netcoreapp3.1\GenericsCollections.runtimeconfig.json
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\bin\Debug\netcoreapp3.1\GenericsCollections.runtimeconfig.dev.json
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\bin\Debug\netcoreapp3.1\GenericsCollections.dll
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\bin\Debug\netcoreapp3.1\GenericsCollections.pdb
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\obj\Debug\netcoreapp3.1\GenericsCollections.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\obj\Debug\netcoreapp3.1\GenericsCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\obj\Debug\netcoreapp3.1\GenericsCollections.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\obj\Debug\netcoreapp3.1\GenericsCollections.AssemblyInfo.cs
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\obj\Debug\netcoreapp3.1\GenericsCollections.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\obj\Debug\netcoreapp3.1\GenericsCollections.dll
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\obj\Debug\netcoreapp3.1\GenericsCollections.pdb
+C:\Users\User\source\repos\GenericsCollections\GenericsCollections\obj\Debug\netcoreapp3.1\GenericsCollections.genruntimeconfig.cache
